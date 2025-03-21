@@ -1,6 +1,6 @@
 # Awesome-Semantic-Communication
 
-<h4>A collection of papers, datasets, benchmarks, code, and model weights for Semantic Communication (SemCom).</h4>
+<h4>A collection of papers, datasets, benchmarks, code for Semantic Communication (SemCom).</h4>
 
 ---
 </div>
